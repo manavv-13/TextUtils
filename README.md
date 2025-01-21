@@ -46,7 +46,7 @@ TextUtils/
 ├── src/
 │   ├── components/       # Reusable components
 │   ├── pages/            # Page components
-│   ├── App.js            # Main application file
+│   ├── App.jsx           # Main application file
 │   ├── main.jsx          # Entry point for React
 │   ├── index.css         # Global styles
 ├── public/               # Static assets
@@ -60,8 +60,3 @@ TextUtils/
 1. Enter text in the input box.
 2. Click the respective buttons to apply transformations.
 3. View the results instantly in the preview section.
-
-
-### Author
-Manav Nigam
-
